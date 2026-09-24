@@ -285,7 +285,7 @@
   description: The weapon of choice for those on the front lines of bureaucracy.
   components:
   - type: Sprite
-    sprite: Objects/Misc/clipboard.rsi
+    sprite: _Omu/Objects/Misc/clipboard.rsi # Omu
     layers:
     - state: clipboard
     - state: clipboard_paper
@@ -309,12 +309,12 @@
           - Write
         insertOnInteract: false
   - type: Item
-    sprite: Objects/Misc/clipboard.rsi
+    sprite: _Omu/Objects/Misc/clipboard.rsi # Omu
     size: Small
   - type: Clothing
     slots: [belt]
     quickEquip: false
-    sprite: Objects/Misc/clipboard.rsi
+    sprite: _Omu/Objects/Misc/clipboard.rsi # Omu
   - type: PhysicalComposition
     materialComposition: # half of autolathe printing cost
       Wood: 50
