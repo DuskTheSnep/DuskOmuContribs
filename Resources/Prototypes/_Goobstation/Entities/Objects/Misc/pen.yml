@@ -20,10 +20,10 @@
   description: A devilishly sharp pen with a strangely warm body. Not quite as sharp as a devils tongue, nor as silver coated.
   components:
   - type: Sprite
-    sprite: _Goobstation/Objects/Misc/bureaucracy.rsi
+    sprite: _Omu/Objects/Misc/pens.rsi # Omu
     state: pen_devil
   - type: Item
-    sprite: _Goobstation/Objects/Misc/bureaucracy.rsi
+    sprite: _Omu/Objects/Misc/pens.rsi # Omu
     heldPrefix: pen_devil
   - type: CrematoriumImmune
   - type: MeleeWeapon

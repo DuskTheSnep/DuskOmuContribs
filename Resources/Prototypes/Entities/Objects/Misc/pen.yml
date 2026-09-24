@@ -7,10 +7,10 @@
   description: A dark ink pen.
   components:
   - type: Sprite
-    sprite: Objects/Misc/pens.rsi
+    sprite: _Omu/Objects/Misc/pens.rsi # Omu
     state: pen
   - type: Item
-    sprite: Objects/Misc/pens.rsi
+    sprite: _Omu/Objects/Misc/pens.rsi # Omu
     heldPrefix: pen
     size: Tiny
   - type: Tag
@@ -127,9 +127,9 @@
   description: A high-tech pen straight from Cybersun's legal department, capable of refracting hard-light at impossible angles through its diamond tip in order to write. So powerful, it's even able to rewrite officially stamped documents should the need arise.
   components:
   - type: Sprite
-    state: overpriced_pen
+    state: pen_syndicate # Omu
   - type: Item
-    heldPrefix: overpriced_pen
+    heldPrefix: pen_syndicate # Omu
   - type: StaticPrice
     price: 500
 

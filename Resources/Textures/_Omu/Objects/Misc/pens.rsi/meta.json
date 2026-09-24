@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/bc7d576f26727f64a4319489125489a8e914fba6 and edited for SS14 by DuskTheSnep | luxury_pen, pen_hop, pen_cap, and pen_centcom from Paradise at commit https://github.com/ParadiseSS13/Paradise/commit/deed305e7edea61691a6fc9ef5806f73c972c0b6 and edited for Omustation by DuskTheSnep. pen_syndicate, pen_devil, and pen_wizard by DuskTheSnep",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "pen"
+    },
+    {
+      "name": "pen_cap"
+    },
+    {
+      "name": "pen_centcom"
+    },
+    {
+      "name": "pen_hop"
+    },
+    {
+      "name": "pen_syndicate"
+    },
+    {
+      "name": "luxury_pen"
+    },
+    {
+      "name": "pen_blue"
+    },
+    {
+      "name": "pen_red"
+    },
+	{
+	  "name": "pen_wizard"
+	},
+	{
+	  "name": "pen_devil"
+	},
+    {
+      "name": "pen-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "pen-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "pen_syndicate-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "pen_syndicate-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "pen_centcom-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "pen_centcom-inhand-right",
+      "directions": 4
+    },
+    {
+      "name": "pen_devil-inhand-left",
+      "directions": 4
+    },
+    {
+      "name": "pen_devil-inhand-right",
+      "directions": 4
+    }
+  ]
+}
