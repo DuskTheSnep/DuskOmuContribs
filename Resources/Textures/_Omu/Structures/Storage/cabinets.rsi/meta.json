@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from tgstation at commit https://github.com/tgstation/tgstation/commit/bc7d576f26727f64a4319489125489a8e914fba6. Edited for SS14 by DuskTheSnep",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "chestdrawer"
+    },
+    {
+      "name": "chestdrawer-open"
+    },
+    {
+      "name": "filingcabinet"
+    },
+    {
+      "name": "filingcabinet-open"
+    },
+    {
+      "name": "tallcabinet"
+    },
+    {
+      "name": "tallcabinet-open"
+    }
+  ]
+}

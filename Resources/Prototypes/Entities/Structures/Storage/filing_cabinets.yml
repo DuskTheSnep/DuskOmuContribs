@@ -52,7 +52,7 @@
     - 0,0,9,3
     maxItemSize: Normal
   - type: Sprite
-    sprite: Structures/Storage/cabinets.rsi
+    sprite: _Omu/Structures/Storage/cabinets.rsi # Omu
     noRot: true
   - type: Appearance
   - type: UserInterface
