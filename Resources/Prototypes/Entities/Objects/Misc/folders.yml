@@ -353,7 +353,7 @@
   description: A cheap clipboard made of blue plastic. For those who aren't yet ready to wield the bureaucratic might of a proper wooden clipboard.
   components:
   - type: Sprite
-    sprite: Objects/Misc/plastic_clipboard.rsi
+    sprite: _Omu/Objects/Misc/plastic_clipboard.rsi # Omu
     layers:
     - state: clipboard
     - state: clipboard_paper
@@ -364,9 +364,9 @@
       visible: false
     - state: clipboard_over
   - type: Item
-    sprite: Objects/Misc/plastic_clipboard.rsi
+    sprite: _Omu/Objects/Misc/plastic_clipboard.rsi # Omu
   - type: Clothing
-    sprite: Objects/Misc/plastic_clipboard.rsi
+    sprite: _Omu/Objects/Misc/plastic_clipboard.rsi # Omu
   - type: PhysicalComposition
     materialComposition: # half of autolathe printing cost
       Plastic: 50
