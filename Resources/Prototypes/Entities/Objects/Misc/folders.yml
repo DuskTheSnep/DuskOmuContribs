@@ -387,7 +387,7 @@
   description: A luxurious clipboard upholstered with green velvet. Often seen carried by CentComm officials, seldom seen actually used.
   components:
   - type: Sprite
-    sprite: Objects/Misc/cc-clipboard.rsi
+    sprite: _Omu/Objects/Misc/cc-clipboard.rsi # Omu
     layers:
     - state: clipboard
     - state: clipboard_paper
@@ -398,9 +398,9 @@
       visible: false
     - state: clipboard_over
   - type: Item
-    sprite: Objects/Misc/cc-clipboard.rsi
+    sprite: _Omu/Objects/Misc/cc-clipboard.rsi # Omu
   - type: Clothing
-    sprite: Objects/Misc/cc-clipboard.rsi
+    sprite: _Omu/Objects/Misc/cc-clipboard.rsi # Omu
   - type: PhysicalComposition
     materialComposition: # same composition as regular clipboard + bit of cloth because it's "upholstered with green velvet"
       Wood: 50
