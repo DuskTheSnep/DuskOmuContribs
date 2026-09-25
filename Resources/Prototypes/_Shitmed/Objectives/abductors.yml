@@ -182,7 +182,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Misc/folders.rsi
+      sprite: _Omu/Objects/Misc/folders.rsi # Omu
       state: folder-colormap
 
 - type: entity

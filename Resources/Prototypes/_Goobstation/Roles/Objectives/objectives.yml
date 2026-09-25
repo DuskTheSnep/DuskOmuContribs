@@ -119,7 +119,7 @@
   - type: Objective
     difficulty: 2
     icon:
-      sprite: Objects/Misc/folders.rsi
+      sprite: _Omu/Objects/Misc/folders.rsi # Omu
       state: folder-white
     issuer: objective-issuer-self
   - type: TargetObjective

@@ -10,9 +10,9 @@
   - type: Transform
     anchored: false
   - type: Sprite
-    sprite: Objects/Misc/folders.rsi
+    sprite: _Omu/Objects/Misc/folders.rsi # Omu
     layers:
-    - state: folder-base
+    #- state: folder-base # Omu
     - state: folder-colormap
   - type: RandomSpawner
     offset: 0
