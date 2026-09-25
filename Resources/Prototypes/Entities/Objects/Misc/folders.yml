@@ -312,9 +312,16 @@
     sprite: _Omu/Objects/Misc/clipboard.rsi # Omu
     size: Small
   - type: Clothing
-    slots: [belt]
+    slots: [belt] # Omu
     quickEquip: false
     sprite: _Omu/Objects/Misc/clipboard.rsi # Omu
+  # Omu start
+  - type: AltClothingLayer # Goobstation
+    defaultLayer: belt
+    altLayer: beltalt
+    changeToAltMessage: alt-clothing-component-belt-alt
+    changeToDefaultMessage: alt-clothing-component-belt-default
+  # Omu end
   - type: PhysicalComposition
     materialComposition: # half of autolathe printing cost
       Wood: 50

@@ -94,7 +94,7 @@
   id: UplinkEnergyDagger
   name: uplink-edagger-name
   description: uplink-edagger-desc
-  icon: { sprite: /Textures/Objects/Weapons/Melee/e_dagger.rsi, state: icon }
+  icon: { sprite: /Textures/_Omu/Objects/Weapons/Melee/e_dagger.rsi, state: icon } # Omu
   productEntity: EnergyDaggerBox
   cost:
     Telecrystal: 10 # goob
