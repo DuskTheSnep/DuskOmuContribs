@@ -22,4 +22,4 @@
     stampedColor: "#000080"
     stampState: "paper_stamp-cap"
   - type: Sprite
-    state: stamp-cap
+    state: stamp-blue

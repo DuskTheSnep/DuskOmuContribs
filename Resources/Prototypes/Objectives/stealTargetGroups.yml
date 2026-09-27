@@ -112,7 +112,7 @@
   id: Stamp
   name: steal-target-groups-stamps
   sprite:
-    sprite: Objects/Misc/stamps.rsi
+    sprite: _Omu/Objects/Misc/stamps.rsi # Omu
     state: stamp-cap
 
 - type: stealTargetGroup

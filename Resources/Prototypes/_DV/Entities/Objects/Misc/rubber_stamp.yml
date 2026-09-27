@@ -9,7 +9,7 @@
     stampedColor: "#4191f2"
     stampState: "paper_stamp-admin-assistant"
   - type: Sprite
-    sprite: _DV/Objects/Misc/stamps.rsi
+    sprite: _Omu/Objects/Misc/stamps.rsi # Omu
     state: stamp-admin-assistant
 
 - type: entity
@@ -24,4 +24,4 @@
     stampedColor: "#000080"
     stampState: "paper_stamp-cap"
   - type: Sprite
-    state: stamp-cap
+    state: stamp-blue # Omu

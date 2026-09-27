@@ -11,5 +11,5 @@
     stampState: "paper_stamp-nanorep"
     stampLargeIcon: "large_stamp-centcom" # Icon
   - type: Sprite
-    sprite: _Goobstation/Objects/Misc/stamps.rsi
+    sprite: _Omu/Objects/Misc/stamps.rsi # Omu
     state: stamp-nanorep
